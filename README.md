@@ -2,7 +2,8 @@
  Project  SDP Course (c++)          
  The Employee Management System is a C++ console application designed to streamline and automate the process of managing employee records. This system allows administrators to efficiently manage essential employee information, including employee IDs, names, positions, departments, salaries, and status.
  
-+ Objective		
++ Objective
+  
 The objectives of this project are:
 
 • To implement CRUD operations for book records.
@@ -11,7 +12,8 @@ The objectives of this project are:
 
 .To provide a user-friendly and simple interface for managers.
 
-+	Scope	
++	Scope
+  
 The project focuses on the following functionalities:
 
 • Adding new employee information records. 
