@@ -1,0 +1,11 @@
+ID,Name,Age,PhoneNumber,Email,HireDate,EmployeeStatus,Position,Department,Salary
+e076,CHHEM Dara,25,12900900,borkjanh01@gmail.com,12/9/2023,Active,Intern,Network,1200
+e034,JANH Bork,28,89123456,limsrey02@gmail.com,5/3/2022,Active,Analyst,IT,300
+e045,KHUN Phirun,31,15789012,dara.chhem@gmail.com,20/06/2021,Inactive,Manager,Operations,980
+e012,LIM Srey,23,17222333,nita.sok@email.com,1/2/2024,Active,Support,Customer Service,450
+e083,MORN Rina,35,92888777,phirun.kh@gmail.com,10/12/2020,Active,Team Lead,Engineering,320
+e025,SEANG Makara,27,97345678,rina.morn@company.com,15/08/2023,Inactive,Intern,HR,750
+e009,SOK Nita,30,11445566,makara.seang@mail.com,28/11/2022,Active,Developer,Software,380
+e017,TEY Sothea,26,95667788,lina.yim@domain.com,17/10/2023,Active,Designer,Creative,540
+e059,VANN Sovann,29,16334455,sothea.tey@gmail.com,9/4/2021,Active,QA Tester,Quality,610
+e067,YIM Lina,32,93112233,sovann.vann@corp.com,30/01/2020,Inactive,Coordinator,Logistics,670
