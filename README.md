@@ -29,4 +29,5 @@ The project focuses on the following functionalities:
 • Reading and saving data from/to an Excel file.  
 
 • Counting the number of employees in a company. 
+
 • Sorting the list of employees by ID, Name and salary. 
